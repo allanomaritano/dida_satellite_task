@@ -89,7 +89,7 @@ The steps for making predictions with the trained U-Net model:
 4. Output: 
    - The predicted masks are saved in the specified output directory, ensuring consistency between 
      input images and predicted segmentation results.
-'''
+
 
 ## Future Improvements:
 Future iterations of this project could include:
